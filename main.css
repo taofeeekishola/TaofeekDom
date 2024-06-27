@@ -1,0 +1,35 @@
+
+.nav{
+	height:50px;
+}
+.second{
+	min-height: 500px;
+}
+.me{
+	border-left:2px solid red;
+}
+.third{
+	min-height:400px;
+}
+hr{
+	width:5%;
+}
+.proj{
+	box-shadow: 2px 1px 17px 0px rgba(0,0,0,0.75);
+}
+.contact{
+	min-height: 400px;
+}
+.quote{
+	font-size:20px;
+}
+.border {
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-bottom:0.5px solid black;
+}
+input:focus{
+	border:black;
+	outline:1px grove #000;
+}
